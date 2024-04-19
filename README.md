@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolini-m
-- 👀 I’m interested in python
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Jenkins, Fastline, SonarQube
 - 💞️ I'm collaborating with Eurosystem2000 s.r.l
 - ⚡ Fun fact: Computer science is no more about computers than astronomy is about telescopes
 
